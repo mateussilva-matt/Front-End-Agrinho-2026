@@ -15,4 +15,4 @@ O projeto funciona como a página de entrada de um site a qual possui um espaço
 
 
 
-# *O principal objetivo para esse projeto é a formulação de uma ideia de um serviço de internet com a oferta de modernização e sustentabilidade para o agronegócio.*
+*O principal objetivo para esse projeto é a formulação de uma ideia de um serviço de internet com a oferta de modernização e sustentabilidade para o agronegócio.*
