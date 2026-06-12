@@ -2,7 +2,7 @@
 
 Link para o projeto: https://mateussilva-matt.github.io/Front-End-Agrinho-2026/
 
-O projeto foi feito utilizando de três linguagens de programação sendo elas Java Script, CSS e html. O principal intuito do projeto é a demonstração e simulação de um serviço especializado na distribuição de serviços com o intuito de modernizar o agro de modo sustentável.
+O projeto foi feito utilizando de três linguagens de programação sendo elas Java Script, CSS e html. O principal intuito do projeto é a demonstração e simulação de um site especializado na distribuição de serviços com o intuito de modernizar o agro de modo sustentável.
 
 # Funcionamento do Projeto:
 
